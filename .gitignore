@@ -7,3 +7,11 @@
 *.iml
 out
 gen
+out_temperature
+out_wordcount
+out_temperature/
+out_wordcount/
+pom.xml
+src/
+target/
+temperature.txt
